@@ -1,0 +1,14 @@
+# Ignore the heavy dataset
+Data/
+data/
+
+# Ignore the heavy brain file (Optional: Remove this line if file is <100MB and you WANT to upload it)
+*.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
