@@ -1,20 +1,3 @@
-It sounds like you uploaded the file, but maybe you uploaded an empty one or the text didn't save correctly.
-
-Since you prefer the manual way, the **easiest fix** is to edit the file directly on the GitHub website. You don't need to re-upload anything.
-
-Here is how to fix it in 30 seconds:
-
-### Step 1: Go to the File on GitHub
-
-1.  Open your repository page in your browser.
-2.  Click on the file named **`README.md`** in the file list.
-3.  Look for the **Pencil Icon** (✏️) in the top right corner of the file view. Click it.
-
-### Step 2: Paste the Code
-
-You will now see a text editor. Delete whatever is currently in there, and **copy-paste this entire block below**. I have formatted it correctly so the headers and bold text show up nicely.
-
-````markdown
 # Facial Emotion Recognition using CNN
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -80,3 +63,4 @@ The confusion matrix shows how well the model predicts each specific emotion.
 
 Now, go back to the main page of your repository (click the "Code" tab). You should see your beautiful README displayed immediately!
 ```
+
